@@ -3,6 +3,7 @@
   "meta": {
     "charset": "UTF-8",
     "viewport": "width=device-width, initial-scale=1.0",
+    "description": "Full Stack Web Developer with over 4 years of experience in JavaScript, PHP, Node.js, and Python.",
     "og": {
       "title": "Juan Manuel Daza - Profile",
       "description": "Full Stack Web Developer with over 4 years of experience in JavaScript, PHP, Node.js, and Python.",
@@ -30,68 +31,55 @@
     "about": {
       "title": "About Me",
       "content": [
-        "I am a Full Stack Web Developer with over 4 years of experience, specializing in technologies such as JavaScript, PHP, Node.js, and Python, as well as frameworks and libraries like Vue, React, CodeIgniter, Django, and Nest.js.",
-        "My experience in music journalism, teaching, and cultural management brings a unique perspective to my work, combining creativity with technical expertise."
+        "I am a Full Stack Web Developer with over 4 years of experience, specializing in technologies such as HTML, CSS, JavaScript, PHP, Node.js, and Python, as well as frameworks and libraries like Vue, React, CodeIgniter, Django, and Nest.js. I enjoy solving complex problems and continuously learning to stay at the forefront of the ever-changing technological landscape.",
+        "My experience in poetry, music journalism, teaching, and cultural management brings a unique perspective to my work, combining creativity with technical expertise. I am driven by the desire to transform the way we interact with technology, merging innovation and art to create meaningful solutions."
       ]
     },
-    "learningProjects": {
-      "title": "Learning Projects",
+    "funProjects": {
+      "title": "Fun Projects",
       "projects": [
         {
           "name": "Wallpapers",
-          "description": "Showcasing 35mm analog photography.",
+          "description": "35mm analog photography.",
           "github": "https://github.com/juanmanueldaza/wallpapers",
-          "website": "https://wallpapers.ultravietnamita.com.ar"
+          "website": "https://wallpapers.ultravietnamita.com.ar",
+          "preview": "https://wallpapers.ultravietnamita.com.ar"
         },
         {
           "name": "Pokédex",
-          "description": "An interactive app to explore and visualize Pokémon data, developed with the group Roofs on Fire.",
+          "description": "Interactive Pokémon app with Roofs on Fire.",
           "github": "https://github.com/roofsonfire/pokedex",
-          "tech": ["HTML5", "CSS3", "JavaScript", "Tone.js", "PokéAPI"],
-          "liveDemo": "https://roofsonfire.github.io/pokedex/"
-        }
-      ]
-    },
-    "openSourceContributions": {
-      "title": "Open Source Contributions",
-      "contributions": [
-        {
-          "name": "Colmena Project",
-          "description": "Free and secure tools for community media.",
-          "backendRepo": "https://gitlab.com/colmena-project/dev/backend",
-          "frontendRepo": "https://gitlab.com/colmena-project/dev/frontend",
-          "allContributions": "https://gitlab.com/users/juanmanueldaza/contributed"
-        },
-        {
-          "name": "OpenHands",
-          "description": "Platform for AI-powered development agents.",
-          "commit": "https://github.com/All-Hands-AI/OpenHands/commit/f5fccab1f60f70278902b9845bdee4d8a3e3b471",
-          "docs": "https://docs.all-hands.dev"
+          "website": "https://roofsonfire.github.io/pokedex/",
+          "preview": "https://roofsonfire.github.io/pokedex/"
         }
       ]
     },
     "whatDrivesMe": {
       "title": "What Drives Me",
-      "content": "I aim to grow as an innovative software developer, pushing the boundaries of tech and creativity. I want to build solutions that inspire connection and curiosity."
+      "content": "I aim to grow as an innovative software developer, building solutions that inspire connection and curiosity."
     },
     "socials": {
       "title": "Find me",
       "links": [
         {
           "platform": "LinkedIn",
-          "url": "https://linkedin.com/in/juanmanueldaza"
+          "url": "https://linkedin.com/in/juanmanueldaza",
+          "icon": "linkedin.svg"
         },
         {
           "platform": "GitHub",
-          "url": "https://github.com/juanmanueldaza"
+          "url": "https://github.com/juanmanueldaza",
+          "icon": "square-github.svg"
         },
         {
           "platform": "GitLab",
-          "url": "https://gitlab.com/juanmanueldaza"
+          "url": "https://gitlab.com/juanmanueldaza",
+          "icon": "square-gitlab.svg"
         },
         {
           "platform": "Email",
-          "url": "mailto:juanmanueldaza@gmail.com"
+          "url": "mailto:juanmanueldaza@gmail.com",
+          "icon": "envelope.svg"
         }
       ]
     }
