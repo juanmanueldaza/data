@@ -54,5 +54,5 @@ daza.ar
 ## Education
 - **Acámica:** Full Stack Web Dev (2020–2021)  
 - **UNTREF:** Electronic Arts (Inc.)  
-- **UBA:** Literature (Inc.)  
+- **UBA:** Letras (Inc.)  
 - **Tea:** Journalism (2003–2005)
