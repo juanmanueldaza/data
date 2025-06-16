@@ -53,8 +53,8 @@ My experience in literature, music journalism, teaching, and cultural management
 
 ## Education
 - **Acámica:** Full Stack Web Development (2020–2021)
-- **Universidad Nacional de Tres de Febrero:** Digital Arts (Incomplete)
-- **Universidad de Buenos Aires:** Literature (Incomplete)
+- **Universidad Nacional de Tres de Febrero:** Artes Electrónicas (Incomplete)
+- **Universidad de Buenos Aires:** Letras (Incomplete)
 - **Tea:** Journalism (2003–2005)
 
 ---
