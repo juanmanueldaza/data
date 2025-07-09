@@ -28,22 +28,19 @@ Donde el código se convierte en herramienta para **imaginar, experimentar y con
 
 ---
 
-## Herramientas y Tecnologías
+## ¿Quién puede participar?
 
-### Hardware y Sistemas
-- **[Arduino](https://www.arduino.cc/)** - Plataforma de prototipado electrónico
-- **[Raspberry Pi](https://www.raspberrypi.org/)** - Computadora de placa única para proyectos DIY
-- **[Linux](https://www.linux.org/)** - Sistema operativo libre y de código abierto
+**Emprendedores** - Quieren crear soluciones digitales, tiendas o sitios web para sus negocios.
 
-### Desarrollo Web
-- **[HTML](https://developer.mozilla.org/es/docs/Web/HTML)/[CSS](https://developer.mozilla.org/es/docs/Web/CSS)** - Estructura y diseño de páginas web
-- **[JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)** - Lenguaje de programación dinámico para la web
-- **[Node.js](https://nodejs.org/)** - Entorno de ejecución de JavaScript del lado del servidor
+**Artistas** - Buscan nuevas formas de expresión con visuales o sonido. Quieren crear portfolios digitales.
 
-### Programación General
-- **[Python](https://www.python.org/)** - Lenguaje versátil ideal para principiantes y proyectos avanzados
-- **[Processing](https://processing.org/)** - Entorno de programación para artes visuales y diseño
-- **[p5.js](https://p5js.org/)** - Biblioteca de JavaScript para programación creativa
+**Educadores** - Quieren enseñar programación desde lo creativo y exploratorio. Necesitan plataformas educativas.
+
+**Hackers Caseros** - Gente curiosa que quiere experimentar con hardware y código.
+
+**Creativos Híbridos** - Mezclan tecnología, arte, pedagogía o activismo en sus proyectos.
+
+**Principiantes Motivados** - Sin experiencia previa pero con ganas de aprender y crear.
 
 ---
 
@@ -117,11 +114,7 @@ Tte. Gral Juan Domingo Perón 1299, Microcentro, Buenos Aires (1038)
 **Juan Manuel Daza**
 *Desarrollador Full Stack | Tecnología + Creatividad + Cultura*
 
-Juan Manuel es un desarrollador Full Stack con más de 5 años de experiencia creando soluciones robustas y escalables. Especializado en [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript), [PHP](https://www.php.net/), [Node.js](https://nodejs.org/), [Python](https://www.python.org/) y frameworks modernos como [Vue](https://vuejs.org/), [React](https://reactjs.org/), [CodeIgniter](https://codeigniter.com/) y [Django](https://www.djangoproject.com/).
-
-Con formación en literatura, periodismo musical y gestión cultural, aporta una perspectiva multidisciplinaria única. Su enfoque creativo fusiona tecnología con disciplinas artísticas para crear experiencias digitales significativas.
-
-Actualmente trabaja como Full Stack Developer en [Accenture Argentina](https://www.accenture.com/ar-es) y ha colaborado con instituciones como [INAMU](https://www.inamu.musica.ar/) (Instituto Nacional de la Música), desarrollando aplicaciones web para la comunidad musical argentina.
+Desarrollador Full Stack especializado en [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript), [PHP](https://www.php.net/), [Node.js](https://nodejs.org/), [Python](https://www.python.org/) y frameworks modernos como [Vue](https://vuejs.org/), [React](https://reactjs.org/) y [Django](https://www.djangoproject.com/). Con formación y trayectoria en literatura, periodismo musical y gestión cultural, fusiona tecnología con disciplinas artísticas para crear experiencias digitales significativas. Actualmente trabaja en [Accenture Argentina](https://www.accenture.com/ar-es) desarrollando soluciones robustas y escalables.
 
 **Contacto:**
 - [Email](mailto:juanmanueldaza@gmail.com)
@@ -131,19 +124,22 @@ Actualmente trabaja como Full Stack Developer en [Accenture Argentina](https://w
 
 ---
 
-## ¿Quién puede participar?
+## Herramientas y Tecnologías
 
-**Emprendedores** - Quieren crear soluciones digitales, tiendas o sitios web para sus negocios.
+### Hardware y Sistemas
+- **[Arduino](https://www.arduino.cc/)** - Plataforma de prototipado electrónico
+- **[Raspberry Pi](https://www.raspberrypi.org/)** - Computadora de placa única para proyectos DIY
+- **[Linux](https://www.linux.org/)** - Sistema operativo libre y de código abierto
 
-**Artistas** - Buscan nuevas formas de expresión con visuales o sonido. Quieren crear portfolios digitales.
+### Desarrollo Web
+- **[HTML](https://developer.mozilla.org/es/docs/Web/HTML)/[CSS](https://developer.mozilla.org/es/docs/Web/CSS)** - Estructura y diseño de páginas web
+- **[JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)** - Lenguaje de programación dinámico para la web
+- **[Node.js](https://nodejs.org/)** - Entorno de ejecución de JavaScript del lado del servidor
 
-**Educadores** - Quieren enseñar programación desde lo creativo y exploratorio. Necesitan plataformas educativas.
-
-**Hackers Caseros** - Gente curiosa que quiere experimentar con hardware y código.
-
-**Creativos Híbridos** - Mezclan tecnología, arte, pedagogía o activismo en sus proyectos.
-
-**Principiantes Motivados** - Sin experiencia previa pero con ganas de aprender y crear.
+### Programación General
+- **[Python](https://www.python.org/)** - Lenguaje versátil ideal para principiantes y proyectos avanzados
+- **[Processing](https://processing.org/)** - Entorno de programación para artes visuales y diseño
+- **[p5.js](https://p5js.org/)** - Biblioteca de JavaScript para programación creativa
 
 ---
 
