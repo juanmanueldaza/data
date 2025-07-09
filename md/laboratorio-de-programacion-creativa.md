@@ -4,10 +4,6 @@
 
 ### *Donde el código se convierte en herramienta para imaginar, experimentar y construir*
 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Creative Coding](https://img.shields.io/badge/Creative%20Coding-FF6B6B?style=for-the-badge&logo=processing&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-4ECDC4?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-
 ---
 
 </div>
@@ -59,8 +55,8 @@ Documentar los procesos en plataformas abiertas
 
 ### 🔧 **Hardware & Sistemas**
 ```
-🟢 Arduino          - Prototipado electrónico
-🟢 Raspberry Pi     - Computación embebida
+🟢 Arduino          - Microcontrolador
+🟢 Raspberry Pi     - Microcomputadora
 🟢 Linux            - Sistema operativo libre
 ```
 
@@ -222,7 +218,7 @@ graph LR
 **🎯 Perfil Profesional:**
 - 🚀 **5+ años** de experiencia en desarrollo Full Stack
 - 💻 **Especialista en:** JavaScript, PHP, Node.js, Python, Vue, React
-- 🏢 **Analista Senior** en Accenture Argentina
+- 🏢 **Full Stack Developer** en Accenture Argentina
 - 🎵 **Colaborador** con INAMU (Instituto Nacional de la Música)
 
 **🎨 Enfoque Multidisciplinario:**
