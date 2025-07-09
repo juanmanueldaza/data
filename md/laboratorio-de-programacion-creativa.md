@@ -1,10 +1,10 @@
-# 🌐 Laboratorio de Programación Creativa
+# Laboratorio de Programación Creativa
 
 Donde el código se convierte en herramienta para **imaginar, experimentar y construir**.
 
 ---
 
-## 📜 Manifiesto
+## Manifiesto
 
 > Creemos en el poder del código como lenguaje de creación, expresión y transformación.
 > La programación no es solo una habilidad técnica: es una forma de pensar, de construir mundos posibles.
@@ -19,7 +19,7 @@ Donde el código se convierte en herramienta para **imaginar, experimentar y con
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 - **Exploración:** Fomentar la exploración creativa y técnica a través de la programación
 - **Acompañamiento:** Acompañar los proyectos personales de cada participante
@@ -28,7 +28,7 @@ Donde el código se convierte en herramienta para **imaginar, experimentar y con
 
 ---
 
-## 🛠️ Herramientas y Tecnologías
+## Herramientas y Tecnologías
 
 ### Hardware y Sistemas
 - **[Arduino](https://www.arduino.cc/)** - Plataforma de prototipado electrónico
@@ -47,7 +47,7 @@ Donde el código se convierte en herramienta para **imaginar, experimentar y con
 
 ---
 
-## 💡 ¿Qué tipo de proyectos puedes crear?
+## ¿Qué tipo de proyectos puedes crear?
 
 ### Proyectos Web
 - Sitios web personales o portfolios
@@ -73,7 +73,7 @@ Donde el código se convierte en herramienta para **imaginar, experimentar y con
 
 ---
 
-## 🧩 Metodología del Laboratorio
+## Metodología del Laboratorio
 
 ### Cómo trabajamos
 
@@ -99,20 +99,20 @@ Donde el código se convierte en herramienta para **imaginar, experimentar y con
 
 ---
 
-## 📍 Ubicación
+## Ubicación
 
 **[Taller Mo](https://www.instagram.com/taller.mo/) - Escuela de Artes Combinadas e Inclusivas**
 
-📍 Tte. Gral Juan Domingo Perón 1299, Microcentro, Buenos Aires (1038)
+Tte. Gral Juan Domingo Perón 1299, Microcentro, Buenos Aires (1038)
 
-🗺️ [Google Maps](https://maps.app.goo.gl/KaN1YyPsimvKxeFg9)
-🔗 [Instagram](https://www.instagram.com/taller.mo/)
+[Google Maps](https://maps.app.goo.gl/KaN1YyPsimvKxeFg9)
+[Instagram](https://www.instagram.com/taller.mo/)
 
 [Taller Mo](https://www.instagram.com/taller.mo/) es una escuela de artes combinadas e inclusivas que comparte nuestra visión de la creatividad como forma de expresión y transformación. Su espacio en el Microcentro ofrece el ambiente perfecto para el intercambio de ideas y la experimentación colaborativa.
 
 ---
 
-## 👨‍🏫 Facilitador
+## Facilitador
 
 **Juan Manuel Daza**
 *Desarrollador Full Stack | Tecnología + Creatividad + Cultura*
@@ -124,14 +124,14 @@ Con formación en literatura, periodismo musical y gestión cultural, aporta una
 Actualmente trabaja como Full Stack Developer en [Accenture Argentina](https://www.accenture.com/ar-es) y ha colaborado con instituciones como [INAMU](https://www.inamu.musica.ar/) (Instituto Nacional de la Música), desarrollando aplicaciones web para la comunidad musical argentina.
 
 **Contacto:**
-- 📧 [Email](mailto:juanmanueldaza@gmail.com)
-- 🔗 [LinkedIn](https://linkedin.com/in/juanmanueldaza)
-- 🐙 [GitHub](https://github.com/juanmanueldaza)
-- 🌐 [Portfolio](https://daza.ar)
+- [Email](mailto:juanmanueldaza@gmail.com)
+- [LinkedIn](https://linkedin.com/in/juanmanueldaza)
+- [GitHub](https://github.com/juanmanueldaza)
+- [Portfolio](https://daza.ar)
 
 ---
 
-## 👥 ¿Quién puede participar?
+## ¿Quién puede participar?
 
 **Emprendedores** - Quieren crear soluciones digitales, tiendas o sitios web para sus negocios.
 
@@ -147,12 +147,12 @@ Actualmente trabaja como Full Stack Developer en [Accenture Argentina](https://w
 
 ---
 
-## 🚀 ¿Listo para Crear?
+## ¿Listo para Crear?
 
 El futuro se construye línea por línea.
 
 ¿Tienes preguntas? ¿Quieres más información?
-📧 [contacto@daza.ar](mailto:contacto@daza.ar)
+[contacto@daza.ar](mailto:contacto@daza.ar)
 
 ---
 
