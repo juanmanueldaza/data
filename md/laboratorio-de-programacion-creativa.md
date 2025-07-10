@@ -21,10 +21,10 @@ Donde el código se convierte en herramienta para **imaginar, experimentar y con
 
 ## Objetivos
 
-- **Exploración:** Fomentar la exploración creativa y técnica a través de la programación
-- **Acompañamiento:** Acompañar los proyectos personales de cada participante
-- **Colaboración:** Impulsar la colaboración entre personas con intereses comunes
-- **Documentación:** Documentar los procesos en plataformas abiertas ([GitHub Pages](https://pages.github.com/))
+- **Exploración:** Fomentar la exploración creativa y técnica a través de la programación.
+- **Acompañamiento:** Acompañar los proyectos personales de cada participante.
+- **Colaboración:** Impulsar la colaboración entre personas con intereses comunes.
+- **Documentación:** Documentar los procesos usando plataformas abiertas.
 
 ---
 
@@ -47,26 +47,26 @@ Donde el código se convierte en herramienta para **imaginar, experimentar y con
 ## ¿Qué tipo de proyectos puedes crear?
 
 ### Proyectos Web
-- Sitios web personales o portfolios
-- Tiendas online y plataformas de venta
-- Aplicaciones web interactivas
-- Blogs y sitios de contenido
+- Sitios web personales o portfolios.
+- Tiendas online y plataformas de venta.
+- Aplicaciones web interactivas.
+- Blogs y sitios de contenido.
 
 ### Arte y Visualización
-- Arte generativo y algorítmico
-- Visualizaciones de datos
-- Instalaciones interactivas
-- Animaciones y gráficos procedurales
+- Arte generativo y algorítmico.
+- Visualizaciones de datos.
+- Instalaciones interactivas.
+- Animaciones y gráficos procedurales.
 
 ### Herramientas Educativas
-- Aplicaciones para enseñar programación
-- Juegos educativos interactivos
-- Simuladores y herramientas de aprendizaje
+- Aplicaciones para enseñar programación.
+- Juegos educativos interactivos.
+- Simuladores y herramientas de aprendizaje.
 
 ### Utilidades y Automatización
-- Scripts de automatización
-- Aplicaciones de productividad
-- Proyectos con microcontroladores
+- Scripts de automatización.
+- Aplicaciones de productividad.
+- Proyectos con microcontroladores.
 
 ---
 
@@ -75,24 +75,24 @@ Donde el código se convierte en herramienta para **imaginar, experimentar y con
 ### Cómo trabajamos
 
 **Exploración Individual**
-- Cada encuentro comienza con trabajo personal en tu proyecto
-- El facilitador rota brindando orientación técnica personalizada
+- Cada encuentro comienza con trabajo personal en tu proyecto.
+- El facilitador rota brindando orientación técnica personalizada.
 
 **Intercambio Colaborativo**
-- Momentos de diálogo libre donde compartimos dudas y descubrimientos
-- Aquí surgen las conexiones inesperadas entre proyectos
+- Momentos de diálogo libre donde compartimos dudas y descubrimientos.
+- Aquí surgen las conexiones inesperadas entre proyectos.
 
 **Muestra y Retroalimentación**
-- Presentaciones informales de avances
-- Resolución colectiva de problemas técnicos
-- Planificación de la semana siguiente
+- Presentaciones informales de avances.
+- Resolución colectiva de problemas técnicos.
+- Planificación de la semana siguiente.
 
 ### Información Práctica
 
-- **Inicio:** Sábado 9 de agosto
-- **Horario:** Sábados de 11:00 a 13:00 (2 horas semanales)
-- **Modalidad:** Alternancia entre talleres técnicos, sesiones libres y presentaciones
-- **Documentación:** Cada proyecto se documenta en un repositorio abierto en [GitHub](https://github.com/)
+- **Inicio:** Sábado 9 de agosto.
+- **Horario:** Sábados de 11:00 a 13:00 (2 horas semanales).
+- **Modalidad:** Alternancia entre talleres técnicos, sesiones libres y presentaciones.
+- **Documentación:** Cada proyecto se documenta en un repositorio abierto en [GitHub](https://github.com/).
 
 ---
 
@@ -127,19 +127,18 @@ Desarrollador Full Stack especializado en [JavaScript](https://developer.mozilla
 ## Herramientas y Tecnologías
 
 ### Hardware y Sistemas
-- **[Arduino](https://www.arduino.cc/)** - Plataforma de prototipado electrónico
-- **[Raspberry Pi](https://www.raspberrypi.org/)** - Computadora de placa única para proyectos DIY
-- **[Linux](https://www.linux.org/)** - Sistema operativo libre y de código abierto
+- **[Arduino](https://www.arduino.cc/)** - Plataforma de prototipado electrónico.
+- **[Linux](https://www.linux.org/)** - Sistema operativo libre y de código abierto.
 
 ### Desarrollo Web
-- **[HTML](https://developer.mozilla.org/es/docs/Web/HTML)/[CSS](https://developer.mozilla.org/es/docs/Web/CSS)** - Estructura y diseño de páginas web
-- **[JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)** - Lenguaje de programación dinámico para la web
-- **[Node.js](https://nodejs.org/)** - Entorno de ejecución de JavaScript del lado del servidor
+- **[HTML](https://developer.mozilla.org/es/docs/Web/HTML)/[CSS](https://developer.mozilla.org/es/docs/Web/CSS)** - Estructura y diseño de páginas web.
+- **[JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)** - Lenguaje de programación dinámico para la web.
+- **[Node.js](https://nodejs.org/)** - Entorno de ejecución de JavaScript del lado del servidor.
 
 ### Programación General
-- **[Python](https://www.python.org/)** - Lenguaje versátil ideal para principiantes y proyectos avanzados
-- **[Processing](https://processing.org/)** - Entorno de programación para artes visuales y diseño
-- **[p5.js](https://p5js.org/)** - Biblioteca de JavaScript para programación creativa
+- **[Python](https://www.python.org/)** - Lenguaje versátil ideal para principiantes y proyectos avanzados.
+- **[Processing](https://processing.org/)** - Entorno de programación para artes visuales y diseño.
+- **[p5.js](https://p5js.org/)** - Biblioteca de JavaScript para programación creativa.
 
 ---
 
@@ -148,7 +147,7 @@ Desarrollador Full Stack especializado en [JavaScript](https://developer.mozilla
 El futuro se construye línea por línea.
 
 ¿Tienes preguntas? ¿Quieres más información?
-[contacto@daza.ar](mailto:contacto@daza.ar)
+[juanmanueldaza@gmail.com](mailto: juanmanueldaza@gmail.com)
 
 ---
 
